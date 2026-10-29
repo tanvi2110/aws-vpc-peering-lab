@@ -6,6 +6,15 @@ This project demonstrates how to establish private network communication between
 
 The lab uses two VPCs with non-overlapping CIDR blocks, private application instances, route tables, security groups, and a bastion host for SSH access.
 
+
+
+## Network Architecture
+
+The following diagram illustrates the AWS VPC Peering setup, including the two VPCs, subnets, routing, and private connectivity.
+
+![AWS VPC Peering Network Architecture](images/vpc-peering-architecture.png)
+
+
 ## Objectives
 
 - Create and configure two independent VPCs.
