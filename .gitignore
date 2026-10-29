@@ -1,0 +1,16 @@
+﻿# Secrets and credentials
+*.pem
+*.key
+credentials.json
+.env
+.env.*
+.aws/
+.ssh/
+*secret*
+*credential*
+
+# Local and generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
